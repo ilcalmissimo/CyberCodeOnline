@@ -4,13 +4,13 @@
 Distruggi i tuoi oggetti per ottenere rottami; fai reverse engineering per ottenere esperienza di stampa.
 Puoi vendere i tuoi oggetti nel [PLAYER MARKET]
 Il tuo livello di crafting non può superare il tuo LIVELLO generale; non perdere tempo a fare ricerca quando hai raggiunto il massimo.
+I tuoi HP si rigenerano completamente dopo ogni combattimento, a meno che tu non sia in un dungeon!
+Sei sempre il primo ad attaccare; usalo a tuo vantaggio!
+Puoi riparare il tuo equipaggiamento danneggiato al [WEAPON SMITH].
+Il tuo inventario non è illimitato; fai attenzione o rischierai di perdere del loot.
+Gli scudi si rigenerano dopo che sconfiggi un nemico in un dungeon.
+Puoi fare reverse engeneering alla [JOB HUB].
 //continue from here
-HP regenerates to full after each battle unless you're in a dungeon!
-You always attack first; use it to your advantage!
-You can repair your damaged equipped gear at the [WEAPON SMITH].
-Your inventory has a storage limit; keep an eye on it or you will lose loot.
-Shields regenerate after you defeat an enemy in a dungeon.
-You can do reverse engineering at the [JOB HUB].
 "Trash" quality equipment is still useful for getting Tech Scraps and gaining PRINTING experience.
 No friends online to help with that dungeon quest? Try sharing your dungeon in the chat!
 Craft Pain Away to recover health between fights in dungeons.
